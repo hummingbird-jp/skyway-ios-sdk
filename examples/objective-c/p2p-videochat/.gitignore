@@ -12,6 +12,7 @@ DerivedData/
 *.mode1v3
 !default.mode1v3
 *.mode2v3
+
 !default.mode2v3
 *.perspectivev3
 !default.perspectivev3
@@ -69,5 +70,5 @@ fastlane/test_output
 iOSInjectionProject/
 
 # SkyWay SDK
-SkyWay.framework/
+# SkyWay.framework/
 .DS_Store
