@@ -9,8 +9,8 @@
 //
 // Set your APIkey and Domain
 //
-static NSString *const kAPIkey = @"yourAPIKEY";
-static NSString *const kDomain = @"yourDomain";
+static NSString *const kAPIkey = @"2142f6af-97df-4c47-a687-fddeca0e3dda";
+static NSString *const kDomain = @"localhost";
 
 @interface ViewController () {
     SKWPeer*                        _peer;
